@@ -1,1 +1,2 @@
 print('safa')
+print('safa')
