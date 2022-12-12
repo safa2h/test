@@ -24,8 +24,10 @@ def player_input():
 def place_marker(board, marker, position):
     board[position] = marker
 
-def win_check(board,mark):
- pass
+
+def win_check(board, mark):
+    pass
+
 
 if __name__ == '__main__':
     test_board = ['X', "o", 'X', "o", 'X', "o", 'X', "o", 'X', "o", ]
