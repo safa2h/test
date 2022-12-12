@@ -1,2 +1,1 @@
 print('safa')
-print('safa')
